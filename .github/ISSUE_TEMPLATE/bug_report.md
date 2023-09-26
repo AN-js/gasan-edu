@@ -6,7 +6,7 @@ title: naver site
 
 ---
 content
- ㄴ the bug is that Evrybody can not get in  naver site 
+ the bug is that Evrybody can not get in  naver site 
 
 
 
